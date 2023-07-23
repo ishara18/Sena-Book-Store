@@ -1,0 +1,98 @@
+.navbar{
+    margin-top: 30px;
+    padding-left: 5px;
+}
+
+.navregister{
+    padding-left: 520px;
+}
+
+.homepageheading{
+    color: rgba(0, 30, 255, 0.831);
+    font-family: Georgia, serif;
+}
+
+.homepageheading h1{
+    margin-top: 25px;
+    margin-left: 20px;
+    font-size: 40px;
+}
+
+.container{
+    background-color: bisque;
+}
+
+.homepageimg01{
+    text-align: center;
+}
+
+.footermain{
+    margin-top: 20px;
+    text-align: center;
+    font-size: 20px;
+}
+
+.homepagecontent h3{
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    margin-top: 25px;
+    margin-left: 100px;
+}
+
+.homepagecontent h5{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: right;
+    margin-right: 70px;
+    margin-bottom: 50px;
+}
+
+.centerloginpage{
+    text-align: center;
+}
+
+.centerloginpage h1{
+    margin-bottom: 40px;
+}
+
+.loginpageforgottenpw{
+    margin-top: 10px;
+    text-align: center;
+    font-size: 15px;
+
+}
+
+.btncreatenewaccount{
+    color: black;
+    background-color: rgb(54, 238, 54);
+    padding-left: 80px;
+    padding-right: 80px;
+    padding-top: 6px;
+    padding-bottom: 6px;
+    font-size: 17px;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+
+.dashboardcenter{
+    text-align: center;
+}
+
+.dashboardcenter h1{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 40px;
+}
+
+.dashboardbooksection, .dashboardauthorsection, .dashboardofferssection
+{
+    border: 15px solid green;
+}
+
+.dashboardbooksection h3, .dashboardauthorsection h3, .dashboardofferssection h3
+{
+    color: rgb(0, 0, 0);
+    border: 1px solid black;
+}
+
+.uploadimgpreview{
+    text-align: center;
+}
